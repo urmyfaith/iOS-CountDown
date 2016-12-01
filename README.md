@@ -1,4 +1,4 @@
 # iOS-CountDown
 
-![截图](https://raw.githubusercontent.com/zeyuang/iOS-CountDown/master/readme.img/img.gif  =344x636)
+![截图](https://raw.githubusercontent.com/zeyuang/iOS-CountDown/master/readme.img/img.gif)
 
